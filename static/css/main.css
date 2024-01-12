@@ -1,0 +1,14 @@
+body {
+    margin: 10;
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse; /* Ensures that the border is collapsed into a single border */
+    width: 100%; /* Optional: Adjusts the width of the table to full width */
+}
+th, td {
+    border: 1px solid black; /* Adds a border to the table header and table data cells */
+    padding: 8px; /* Optional: Adds some padding inside the cells for better readability */
+    text-align: left; /* Optional: Aligns text to the left; can be changed to center or right if preferred */
+}
